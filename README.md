@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" alt="Senac Xanxerê - Laboratório de Tecnologia e Código" width="100%" />
+  <img src="profile/banner.svg" alt="Senac Xanxerê - Laboratório de Tecnologia e Código" width="100%" />
 </div>
 
 <br/>
