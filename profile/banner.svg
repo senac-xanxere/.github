@@ -1,0 +1,50 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#003366" />
+      <stop offset="65%" stop-color="#004C99" />
+      <stop offset="100%" stop-color="#0066CC" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F78B1F" />
+      <stop offset="100%" stop-color="#FFA94D" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  
+  <rect width="1200" height="280" rx="16" fill="url(#bgGrad)" />
+  <rect width="1200" height="280" rx="16" fill="url(#grid)" />
+
+  
+  <rect x="0" y="268" width="1200" height="12" rx="6" fill="url(#accentGrad)" />
+
+  
+  <circle cx="1080" cy="70" r="90" fill="#F78B1F" fill-opacity="0.12" />
+  <circle cx="1130" cy="200" r="60" fill="#FFFFFF" fill-opacity="0.06" />
+
+  
+  <g stroke="#FFFFFF" stroke-opacity="0.14" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 985 118 L 957 140 L 985 162" />
+    <path d="M 1031 112 L 1009 168" />
+    <path d="M 1055 118 L 1083 140 L 1055 162" />
+  </g>
+
+  
+  <rect x="64" y="48" width="150" height="36" rx="8" fill="#F78B1F" />
+  <text x="139" y="72" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="800" fill="#FFFFFF" text-anchor="middle" letter-spacing="1.5">SENAC SC</text>
+
+  
+  <rect x="228" y="48" width="230" height="36" rx="8" fill="#FFFFFF" fill-opacity="0.15" stroke="#FFFFFF" stroke-opacity="0.3" />
+  <circle cx="252" cy="66" r="5" fill="#FFA94D" />
+  <text x="353" y="71" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.8">UNIDADE XANXERÊ</text>
+
+  
+  <text x="64" y="142" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="42" font-weight="800" fill="#FFFFFF">Laboratório de Tecnologia e Código</text>
+
+  
+  <text x="64" y="182" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="20" fill="#D9E6F2">Exercícios práticos, exemplos de aula, arquiteturas de referência e artefatos</text>
+  <text x="64" y="210" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#FFA94D" font-weight="600">Cursos Técnicos, Livres e Graduação • Oeste Catarinense</text>
+</svg>
